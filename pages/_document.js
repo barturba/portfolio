@@ -5,7 +5,7 @@ export default function Document() {
     title: 'Bartas Urba',
     description:
       'Innovative and driven IT professional with a proven track record in system optimization, seeking to apply my expertise and collaborative spirit to advance technological operations within a dynamic organization.',
-    image: 'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
+    image: 'https://bartas.co/images/socialpreview.png'
   }
 
   return (
